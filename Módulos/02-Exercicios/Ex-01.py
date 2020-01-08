@@ -1,0 +1,5 @@
+nome = str(input('Digite seu nome completo: ')).strip()
+print(nome.upper())
+print(nome.lower())
+print(f'Seu nome tem {len(nome) - nome.count(" ")} letras ao todo')
+print(f'Seu nome possui {nome.find(" ")} letras')
