@@ -1,4 +1,4 @@
-with open('Reforco\cadastro.txt', 'r') as arquivo:
+with open('cadastro.txt', 'r') as arquivo:
 
     tipo_dados = ['Codigo', 'Nome', 'Idade', 'Sexo', 'Email', 'Telefone']
     lista_cadastros = []
