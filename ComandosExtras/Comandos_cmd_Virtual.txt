@@ -1,0 +1,2 @@
+python -m venv virtual-environment-name
+python -m venv venv
